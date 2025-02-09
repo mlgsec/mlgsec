@@ -28,20 +28,3 @@
 </ul>
 
 ---
-
-### 🧑‍💻 Languages ​​and Frameworks ✨ 
-
-![Backend](https://skillicons.dev/icons?i=java,python,spring,flask,django,html,css,bootstrap,angular,javascript,typescript)
----
-
-### 🛠️ Tools, Database and ORMs🛢️
-
-![FerramentasBancosOrms](https://skillicons.dev/icons?i=idea,postman,vscode,eclipse,maven,gradle,mysql,postgres,hibernate)
-
----
-
-### 🚀 DevOps, Repositories and Others 🧰
-
-![DevopsRepo](https://skillicons.dev/icons?i=git,docker,github,heroku,linux,rabbitmq)
-
----
